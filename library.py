@@ -1,3 +1,4 @@
-print("Library Management System")
-print("Student Registration Module added")
-print("Login feature under development")
+def add_book(book_name):
+    print(f"Book added: {book_name}")
+
+add_book("Agile Handbook")
